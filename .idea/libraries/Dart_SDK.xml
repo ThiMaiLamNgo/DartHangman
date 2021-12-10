@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/async" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/cli" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/collection" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/convert" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/core" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/developer" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/ffi" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/html" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/indexed_db" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/io" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/isolate" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/js" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/js_util" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/math" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/mirrors" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/svg" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/typed_data" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/web_audio" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/web_gl" />
+      <root url="file://$PROJECT_DIR$/../../../../../tools/sdk/dartsdk-windows-x64-release/dart-sdk-2144/lib/web_sql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
