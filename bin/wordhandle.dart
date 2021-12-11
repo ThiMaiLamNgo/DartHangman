@@ -1,3 +1,5 @@
+import 'dart:io';
+
 class WordHandler {
   List<String>  currentWord; //String
   //int wordLength;
@@ -12,47 +14,38 @@ class WordHandler {
   void initWord(String currentWord){
     this.currentWord = currentWord.split('');//toLowerCase();
     //wordLength = this.currentWord.length;
-    inittDisplayWord();
+    initDisplayWord();
   }
   bool checkChar(character){
     return currentWord.contains(character);
   }
-   void addChar(character){
+  void addChar(character){
     //guessedChars.add(character);
-     //if(currentWord.contains(character)){
-     for (int i = 0; i < currentWord.length; i++){
-       if(currentWord[i] == character){
-         displayWord[i] = character;
-       }
-     }
-   }
-   void inittDisplayWord(){
+    //if(currentWord.contains(character)){
+    for (int i = 0; i < currentWord.length; i++){
+      if(currentWord[i] == character){
+        displayWord[i] = character;
+      }
+    }
+  }
+  void initDisplayWord(){
     List<String> displayWord = [];
     for (String char in currentWord){
       displayWord.add('_');
     }
     this.displayWord = displayWord;
-     //String displayWord = '';
-    /*
-    for (int i = 0; i < wordLength; i++){
-       displayWord.add('_ ');
-     }
-     this.displayWord = displayWord;
-     //print(displayWord);
+  }
 
-     */
-   }
-
-   void display(){
+  void display(){
     print(displayWord.join(" "));
-   }
-   bool checkMatch(){
+  }
+  bool checkMatch(){
     //print(displayWord);
     //print(currentWord);
     return displayWord.join('') == currentWord.join('');
-   }
-   void reset(){
+  }
+  void reset(){
     currentWord = [];
     displayWord = [];
-   }
+  }
 }

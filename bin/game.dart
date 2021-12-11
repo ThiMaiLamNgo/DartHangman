@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'wordHandler.dart';
+import 'wordhandle.dart';
 import 'wordbank.dart';
 import 'diagram.dart';
 import 'inputhandler.dart';

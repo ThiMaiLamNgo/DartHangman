@@ -1,7 +1,7 @@
 /*
 import 'diagram.dart';
 import 'wordbank.dart';
-import 'wordHandler.dart';
+import 'wordhandler.dart';
  */
 import 'game.dart';
 void main(List<String> arguments){
